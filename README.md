@@ -1,25 +1,4 @@
-# README
+# GraphQL Example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# ruby-graphql-examples
+Ruby API GraphQL sample. I created this repository for a presentation about GraphQL APIs with Rails.
+Made sure it would contain queries and mutations. Also made sure it would contain an example of a query that would request data from another API instead of directly getting it from the database
